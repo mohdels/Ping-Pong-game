@@ -6,7 +6,7 @@ import acm.graphics.GRect;
 import acm.program.GraphicsProgram;
 import static ppPackage.ppSimParams.*;
 
-//Important! This code is a modified version of the ppBall code provided, by Professor Ferrie, in the assignment handout as well as the code provided by Katrina Poulin in the tutorial. 
+
 
 import java.awt.Color;
 
