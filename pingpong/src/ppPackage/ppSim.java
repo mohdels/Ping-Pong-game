@@ -12,7 +12,7 @@ import acm.graphics.GPoint;
 import acm.program.GraphicsProgram;
 import acm.util.RandomGenerator;
 
-//Important! This code is a modified version of the ppBall code provided, by Professor Ferrie, in the assignment handout as well as the code provided by Katrina Poulin in the tutorial. 
+
 
 /**
  * This is the main entry point for the program. It implements the run() method, generates the table walls, prompts the user for input (Vo, theta, loss), 

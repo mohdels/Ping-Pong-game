@@ -6,7 +6,7 @@ import acm.graphics.GOval;
 import acm.graphics.GPoint;
 import acm.program.GraphicsProgram;
 
-//Important! This code is a modified version of the ppBall code provided, by Professor Ferrie, in the assignment handout as well as the code provided by Katrina Poulin in the tutorial. 
+
 /**
  * This is the heart of the program. It embeds the simulation loop that was created in assignment 1 and extends the Thread class- which
  * means that its run() method executes concurrently with all other methods in the program.

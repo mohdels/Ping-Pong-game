@@ -7,7 +7,7 @@ import static ppPackage.ppSimParams.*;
 
 import java.awt.Color;
 
-//Important! This code is a modified version of the ppTable code provided, by Professor Ferrie, in the assignment handout as well as the code provided by Katrina Poulin in the tutorial. 
+
 
 public class ppTable {
 

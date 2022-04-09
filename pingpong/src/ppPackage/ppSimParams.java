@@ -2,7 +2,7 @@ package ppPackage;
 
 import javax.swing.JToggleButton;
 
-//Important! This code was retrieved from the assignment handout by Prof Ferrie. 
+
 
 // This class defines the parameters used in this assignment
 
