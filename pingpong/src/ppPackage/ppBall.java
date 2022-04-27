@@ -8,8 +8,7 @@ import acm.program.GraphicsProgram;
 
 
 /**
- * This is the heart of the program. It embeds the simulation loop that was created in assignment 1 and extends the Thread class- which
- * means that its run() method executes concurrently with all other methods in the program.
+ * This is the heart of the program. 
  * @author mohammedelsayed
  *
  */
